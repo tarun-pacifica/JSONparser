@@ -1,0 +1,9 @@
+#container, #title, #message, #link {
+	min-height: 5px;
+	border: 1px solid black;
+}
+#item	{
+	min-height: 20px;
+	width: 100%;
+	border: 1px solid red;
+}
